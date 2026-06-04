@@ -199,7 +199,7 @@
       "id": "blu-ray-disc",
       "groupId": "source",
       "name": "Blu-ray Disc",
-      "pattern": "(?i)^(?=.*(?:blu[\\s._-]?ray|bluray|bdrip|bdremux))(?!.*(?:2160p|4k|uhd))",
+      "pattern": "(?i)^(?=.*(?:blu[\\s._-]?ray|bluray|bdrip))(?!.*(?:2160p|4k|uhd))(?!.*remux)",
       "imageURL": "https://raw.githubusercontent.com/leonevz/Elite-Badges/main/Badges/blu_ray_disc.png",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
